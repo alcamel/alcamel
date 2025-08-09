@@ -25,8 +25,9 @@ Hi, I'm **Gamal Moussa** — a DevOps Engineer and System Administrator passiona
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+<p>
   <img src="https://github-profile-trophy.vercel.app/?username=alcamel&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcamel&layout=compact&theme=algolia" height="165" />
 </p>
 
 ---
@@ -35,7 +36,6 @@ Hi, I'm **Gamal Moussa** — a DevOps Engineer and System Administrator passiona
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alcamel&show_icons=true&theme=algolia" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcamel&layout=compact&theme=algolia" height="165" />
 </p>
 
 ---
