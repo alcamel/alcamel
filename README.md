@@ -23,20 +23,12 @@ Hi, I'm **Gamal Moussa** — a DevOps Engineer and System Administrator passiona
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats & Top Languages
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=alcamel&show_icons=true&theme=algolia" style="flex: 1; min-width: 300px; max-width: 48%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcamel&layout=compact&theme=algolia" style="flex: 1; min-width: 300px; max-width: 48%;" />
 </div>
-
-
----
-
-## 📊 GitHub Stats & Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alcamel&show_icons=true&theme=algolia" height="165" />
-</p>
 
 ---
 
