@@ -29,15 +29,6 @@ Hi, I'm **Gamal Moussa** — a DevOps Engineer and System Administrator passiona
   <img src="https://github-readme-stats.vercel.app/api?username=alcamel&show_icons=true&theme=algolia" style="flex: 1; min-width: 300px; max-width: 48%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcamel&layout=compact&theme=algolia" style="flex: 1; min-width: 300px; max-width: 48%;" />
 </div>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</p>
-
 ---
 
 <p align="center"><i>Thanks for visiting — let’s automate the future. 🐫</i></p>
