@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">🌟 Camel Code Blog</h1>
 
-<!--
-**alcamel/alcamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🚀 DevOps Explorer &nbsp;|&nbsp; 🔐 Security Enthusiast &nbsp;|&nbsp; ☁️ Cloud Architect &nbsp;|&nbsp; 🐧 Linux Advocate  
+<br>
+<em>Turning ideas into automated, secure, and scalable systems.</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+Hi, I'm **Gamal Moussa** — a DevOps Engineer and System Administrator passionate about:
+
+- 🐧 Linux (Debian, Kali, NixOS, RedHat)
+- 🔐 Cybersecurity, Malware Analysis, Reverse Engineering
+- ☁️ AWS, Kubernetes, and Cloud-Native Infrastructure
+- ⚙️ CI/CD with Jenkins, GitHub Actions, and Docker
+- 🧰 Bash, Python, and Ansible automation
+- ✍️ Writing about system design, automation philosophy, and security
+
+> **Mission:** Automate everything. Secure everything. Break nothing.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alcamel&theme=algolia&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alcamel&show_icons=true&theme=algolia" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alcamel&layout=compact&theme=algolia" height="165" />
+</p>
+
+---
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+## ⏱️ Wakatime Stats
+
+<p align="center">
+  <img src="https://wakatime.com/share/@alcamel/YOUR-ID.svg" alt="Wakatime Stats" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for visiting — let’s automate the future. 🐫</i></p>
