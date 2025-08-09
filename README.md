@@ -48,12 +48,4 @@ Hi, I'm **Gamal Moussa** — a DevOps Engineer and System Administrator passiona
 
 ---
 
-## ⏱️ Wakatime Stats
-
-<p align="center">
-  <img src="https://wakatime.com/share/@alcamel/YOUR-ID.svg" alt="Wakatime Stats" />
-</p>
-
----
-
 <p align="center"><i>Thanks for visiting — let’s automate the future. 🐫</i></p>
